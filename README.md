@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there! I'm Hua Gia Bao
 
-<!--
-**baohua-271/baohua-271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd-year IT student at [UIT – VNUHCM], passionate about data and business.  
+📊 I'm currently learning to become a **Business Analyst / Data Analyst**.  
+💻 Exploring web development step by step (HTML • CSS • JavaScript).  
+🌍 Open to learning, collaboration, and new opportunities.  
+📄 IELTS 6.5.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Current Focus
+
+- 🔍 Business Analysis concepts
+- 📈 SQL, Excel, and data visualization tools (Power BI)
+- 🌐 Frontend basics (HTML, CSS, JS)
+- 🤝 Soft skills for communication and teamwork
+
+---
+
+## 📌 Goals for 2025
+
+- 🚀 Build at least 2 personal projects (Web or Data-related)
+- 📘 Improve Japanese to business level (N2+)
+- 💼 Get an internship or part-time role related to BA/DA
+- 🛠️ Create a clean portfolio with real case studies
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: giabao27105@gmail.com  
+- 🧑‍💻 GitHub: [baohua-271](https://github.com/baohua-271)
+
+---
+
+> *"Learning in public, growing step by step."*
+
